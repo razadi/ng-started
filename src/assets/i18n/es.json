@@ -1,0 +1,9 @@
+{
+    "username": "Usuario",
+    "password": "Constraseña",
+    "remember": "Recordarme",
+    "forgot": "Recuperar password",
+    "login": "Acceso",
+    "name": "Nombre",
+    "mail": "Correo"
+}
